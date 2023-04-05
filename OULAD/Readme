@@ -1,0 +1,24 @@
+Files in order of analysis:
+1. Data_Exploration_and_preprocessing: Generates csv files for further analysis
+Packages Required in Python:
+pandas
+numpy
+plotly.express
+missingno
+
+2. Modeling
+Packages Required in Python:
+pandas
+numpy
+plotly.express
+missingno
+sklearn
+catboost
+xgboost
+lightgbm
+optuna
+
+3. Causal_Analysis 
+Packages required in R:
+dplyr
+grf
